@@ -5,7 +5,7 @@ export function Footer() {
   const socialLinks = [
     { icon: Github, href: 'https://github.com/Avinaash-dev', label: 'GitHub' },
     { icon: Instagram, href: 'https://instagram.com/avilogan_xiii/', label: 'Instagram' },
-    { icon: Globe, href: 'https://gilded-caramel-368017.netlify.app', label: 'Website' },
+    { icon: Globe, href: 'https://avi-dev.netlify.app', label: 'Website' },
     { icon: Linkedin, href: 'https://www.linkedin.com/in/avinaash-n-a03a47338/', label: 'LinkedIn' },
     { icon: Mail, href: 'mailto:avinaash2k@gmail.com', label: 'Email' }
   ];
